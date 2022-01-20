@@ -24,7 +24,7 @@ BuildFullPath "c:\windows\temp\PingAndLog"
 
 ' Logfile for every execution or unique file for all logs
 
-'LogFile = "c:\windows\temp\Pinglogger\PingLogger-" & StartTime & ".log"
+'LogFile = "c:\windows\temp\Pinglogger\PingAndLog-" & StartTime & ".log"
 LogFile = "c:\windows\temp\PingAndLog\PingAndLog.log"
 wscript.echo LogFile
 
